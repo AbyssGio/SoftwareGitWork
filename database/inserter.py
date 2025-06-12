@@ -10,3 +10,4 @@ def insertfishdata(dbcursor, values):
           "FishID) " \
           "VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
     dbcursor.execute(sql, values)
+    sleep(0.1)
