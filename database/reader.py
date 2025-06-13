@@ -11,5 +11,5 @@ def csvreader(Path):
             datas.append(row)
 
     return datas
-sleep(0.5)
+sleep(0.2)
 

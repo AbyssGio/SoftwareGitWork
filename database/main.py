@@ -54,4 +54,4 @@ if __name__ == '__main__':
     #     print(files)
 
     cursor.close()  # 释放数据库工具
-    sleep(0.5)
+    sleep(0.2)
